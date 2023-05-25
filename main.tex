@@ -68,14 +68,14 @@
 
 %%%%%%%%%%%%%%%% thmtools %%%%%%%%%%%%%%%%%%%%%
 \usepackage{thmtools}
-\declaretheorem[numberwithin=chapter]{theorem}
+\declaretheorem[numberwithin=chapter, name=定理]{theorem}
 \declaretheorem[numberwithin=chapter]{axiom}
 \declaretheorem[numberwithin=chapter]{lemma}
 \declaretheorem[numberwithin=chapter]{proposition}
 \declaretheorem[numberwithin=chapter]{claim}
 \declaretheorem[numberwithin=chapter]{conjecture}
 \declaretheorem[sibling=theorem]{corollary}
-\declaretheorem[numberwithin=chapter, style=definition]{definition}
+\declaretheorem[numberwithin=chapter, style=definition, name=定义]{definition}
 \declaretheorem[numberwithin=chapter, style=definition]{problem}
 \declaretheorem[numberwithin=chapter, style=definition]{example}
 \declaretheorem[numberwithin=chapter, style=definition]{exercise}
@@ -208,6 +208,8 @@ delim_0 "\\nobreak\\dotfill"
 
 
 \input{./macros.tex}
+
+
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%% begin of document %%%%%%%%%%%%%%%
