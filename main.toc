@@ -9,5 +9,10 @@
 \contentsline {section}{\numberline {1.4}Diffie-Hellman密钥交换}{7}{section.1.4}%
 \contentsline {section}{\numberline {1.5}离散对数及相关假设}{7}{section.1.5}%
 \contentsline {section}{\numberline {1.6}来自数论原语的抗碰撞哈希函数}{7}{section.1.6}%
+\contentsline {section}{\numberline {1.7}对匿名Diffie-Hellman协议的攻击}{7}{section.1.7}%
+\contentsline {section}{\numberline {1.8}Merkle谜题：一种使用分组加密对密钥协商的部分解决方案}{7}{section.1.8}%
+\contentsline {section}{\numberline {1.9}一个有趣的应用：累加器}{7}{section.1.9}%
+\contentsline {section}{\numberline {1.10}注记}{7}{section.1.10}%
+\contentsline {section}{\numberline {1.11}习题}{7}{section.1.11}%
 \hypertarget {chap-1}{}
 \contentsline {chapter}{参考文献}{9}{chapter*.2}%
